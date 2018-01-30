@@ -11,7 +11,7 @@ your app will be running on port `3000
 **Read the schema documentation hosted on graph.cool**:
 
 ```bash
-cd schema/
+cd ../schema/
 npm i and npm start
 or 
 yarn and yarn start
